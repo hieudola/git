@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mettingapp *.css
+recursive-include mettingapp *.csv
+recursive-include mettingapp *.html
+recursive-include mettingapp *.ico
+recursive-include mettingapp *.js
+recursive-include mettingapp *.json
+recursive-include mettingapp *.md
+recursive-include mettingapp *.png
+recursive-include mettingapp *.py
+recursive-include mettingapp *.svg
+recursive-include mettingapp *.txt
+recursive-exclude mettingapp *.pyc

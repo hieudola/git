@@ -1,2 +1,7 @@
-# git
-how to user GitHub
+## Mettingapp
+
+Metting
+
+#### License
+
+MIT# mettingapp
